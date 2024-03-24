@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sentiment Analysis Result</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+    <h1>Sentiment Analysis Result</h1>
+    <p>Text: {{ text }}</p>
+    <p>Sentiment: {{ sentiment }}</p>
+    <a href="/">Back to Home</a>
+</body>
+</html>
