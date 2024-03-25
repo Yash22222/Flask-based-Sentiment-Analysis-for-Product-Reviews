@@ -4,13 +4,13 @@
 # Flipkart Product Review Analysis
 
 ## Description
-This is a Flask web application for analyzing sentiment in Flipkart product reviews. Users can input their text reviews, and the app predicts whether the sentiment of the review is positive or negative using a pre-trained machine learning model.
+This is a Flask web application for analyzing sentiment in Flipkart product reviews. Users can input their text reviews, and the app predicts whether the review's sentiment is positive or negative using a pre-trained machine learning model.
 
 ## Features
 - Input text reviews and get sentiment analysis predictions.
 - Simple and intuitive user interface.
 - Responsive design for use on both desktop and mobile devices.
-- Uses a pre-trained machine learning model for sentiment analysis.
+- Uses a  machine learning model for sentiment analysis.
 
 ## Installation
 1. Clone this repository to your local machine.
